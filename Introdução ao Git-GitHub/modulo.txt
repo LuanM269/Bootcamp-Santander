@@ -1,0 +1,8 @@
+1. Introdução ao Git
+2. Navegação via Command line Interface e instalação
+3. Intendendo como o Git Funciona por Baixo dos Panos
+4. Primeiros Comandos com o Git
+5. Ciclos de Vida com os Arquivos no Git
+6. Introdução ao GitHub
+7. Resolvendo Conflitos 
+Entrega do Desafio do Git/GitHub

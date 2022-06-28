@@ -1,0 +1,5 @@
+1. Pensamento Computacional
+2. Introdução à Lógica de Programação
+3. Fundamentos de Algoritmos
+4. Linguagens de Programação
+5. Primeiros Contatos com a Programação
